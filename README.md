@@ -1,4 +1,6 @@
-### Hi there 👋
+# Heya, I'm Jonathan Chan
+
+Financial Advisor turned Software Engineer. I love the fact that coding involves logic and analytics, but you can have creative freedom to design your own solutions to problems. Check out my *[portfolio]https://cheeyongjc.github.io/jonathanchan/*
 
 <!--
 **cheeyongjc/cheeyongjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 # Heya, I'm Jonathan Chan
 
-Financial Advisor turned Software Engineer. I love the fact that coding involves logic and analytics, but you can have creative freedom to design your own solutions to problems. Check out my *[portfolio](https://cheeyongjc.github.io/jonathanchan/)*.
+Financial Advisor turned Software Engineer. I love the fact that coding involves logic and analytics, but I have the creative freedom to design my own solutions to problems. Check out my *[portfolio](https://cheeyongjc.github.io/jonathanchan/)*.
 
 ## 🧰 Languages and Tools:
 <p align="center">

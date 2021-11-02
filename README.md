@@ -3,6 +3,7 @@
 Financial Advisor turned Software Engineer. I love the fact that coding involves logic and analytics, but I have the creative freedom to design my own solutions to problems. Check out my *[portfolio](https://cheeyongjc.github.io/jonathanchan/)*.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cheeyongjc&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheeyongjc&theme=tokyonight)
 
 ## 🧰 Languages and Tools:
 <p align="center">

@@ -1,6 +1,6 @@
 # Heya, I'm Jonathan Chan
 
-Financial Advisor turned Software Engineer. I love the fact that coding involves logic and analytics, but I have the creative freedom to design my own solutions to problems. Check out my *[portfolio](https://cheeyongjc.github.io/jonathanchan/)* and *[resume](https://drive.google.com/file/d/1357TNbnhBFoBDrxMdgRy2sb4Hemu0Gkf/view?usp=sharing).
+Financial Advisor turned Software Engineer. I love the fact that coding involves logic and analytics, but I have the creative freedom to design my own solutions to problems. Check out my *[portfolio](https://cheeyongjc.github.io/jonathanchan/)* and *[resume](https://drive.google.com/file/d/1357TNbnhBFoBDrxMdgRy2sb4Hemu0Gkf/view?usp=sharing)*.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cheeyongjc&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheeyongjc&theme=tokyonight)
